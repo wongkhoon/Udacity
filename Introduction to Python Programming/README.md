@@ -2,4 +2,4 @@
 
 - Instructor: Ms Juno Lee
 
-It is a fantastic Python course that is offered for free and taught by Ms. Juno Lee, whom I personally consider to be an excellent instructor in explaining the language.
+It is an excellent Python course, taught by Ms. Juno Lee, whom I personally find to be a great instructor in explaining the language. This course is also where I first learned Python programming, and it is available to learners for free.
