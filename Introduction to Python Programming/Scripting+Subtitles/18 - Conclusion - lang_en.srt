@@ -1,0 +1,20 @@
+1
+00:00:00,080 --> 00:00:03,240
+Awesome job completing this course.
+
+2
+00:00:03,240 --> 00:00:09,120
+After covering lessons on Python data types and operators, control flow, functions,
+
+3
+00:00:09,119 --> 00:00:12,179
+and scripting, you've developed the understanding and
+
+4
+00:00:12,179 --> 00:00:16,214
+skills necessary to tackle projects and courses in Python.
+
+5
+00:00:16,214 --> 00:00:19,559
+Congratulations again on completing this course.
+
